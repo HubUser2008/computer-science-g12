@@ -1,0 +1,2 @@
+dollabills = {'money': 10, 'influence': 0, 'Debt': 0}
+money_makers = {'LemonsRus': {'num_stores': 1, 'cost': 50, 'level': 1, 'income': 10}, 'Cafe': {'num_stores': 0, 'cost': 500, 'level': 1, 'income': 80}, 'DeezSeedz': {'num_stores': 0, 'cost': 5000, 'level': 1, 'income': 640}}
